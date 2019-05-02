@@ -2,7 +2,7 @@
 
 ## Description
 
-Creating a restful api in python using flask as microframework and in docker container environment.
+Creating a restful api in python using flask as framework and in docker container environment.
 
 ## Usage
 
