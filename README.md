@@ -1,5 +1,9 @@
 # Employee Registry Service 
 
+## Description
+
+Creating a restful api in python using flask as microframework and in docker container environment.
+
 ## Usage
 
 All responses will have the form
