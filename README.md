@@ -63,10 +63,10 @@ If a employee with a given id already exists, the existing employee will be over
 - `201 Created` on success
 ```json
 {
-	"employee_id":"121339"
+	"employee_id":"121339",
 	"name":"Rahul",
 	"age":"30",
-	"department":"Human Resource"
+	"department":"Human Resource",
 	"location":"Pune"
 }
 ``` 
